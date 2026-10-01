@@ -35,7 +35,7 @@ import javax.swing.SpinnerNumberModel;
 
 /**
  *
- * @author acv
+ * @author zihao
  */
 public class DrawingApplicationFrame extends JFrame
 {

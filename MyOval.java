@@ -12,7 +12,7 @@ import java.awt.geom.Ellipse2D;
 
 /**
  *
- * @author al
+ * @author ZL
  */
 public class MyOval extends MyBoundedShapes{
     

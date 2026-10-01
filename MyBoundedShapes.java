@@ -10,7 +10,7 @@ import java.awt.Stroke;
 
 /**
  *
- * @author zihao
+ * @author ZL
  */
 public abstract class MyBoundedShapes extends MyShapes{
     private boolean filled;

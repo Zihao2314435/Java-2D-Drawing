@@ -12,7 +12,7 @@ import java.awt.geom.Line2D;
 
 /**
  *
- * @author al
+ * @author ZL
  */
 public class MyLine extends MyShapes{
     

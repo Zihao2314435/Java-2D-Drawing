@@ -13,7 +13,7 @@ import java.awt.Stroke;
 
 /**
  *
- * @author al
+ * @author ZL
  */
 public abstract class MyShapes {
     private Point startPoint = new Point();

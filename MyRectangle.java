@@ -12,7 +12,7 @@ import java.awt.geom.Rectangle2D;
 
 /**
  *
- * @author al
+ * @author ZL
  */
 public class MyRectangle extends MyBoundedShapes{
     

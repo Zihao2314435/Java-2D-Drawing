@@ -11,7 +11,7 @@ import javax.swing.JLabel;
 
 /**
  *
- * @author acv
+ * @author zihao
  */
 public class Java2dDrawingApplication
 {

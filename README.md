@@ -1,33 +1,37 @@
 # Java 2D Drawing Application
 
-An interactive desktop drawing application developed in Java using Swing/AWT and Java 2D.
+An interactive desktop drawing application built with Java Swing/AWT and Java 2D.
 
 ## Overview
 
-The application allows users to draw and modify geometric shapes through a graphical user interface. Shapes are created using mouse interactions and rendered dynamically on the drawing panel.
+The application provides a graphical interface for drawing and customizing geometric shapes through mouse interactions. It renders shapes dynamically and offers controls for adjusting their appearance and managing drawing operations.
+
+Developed as part of Penn State's CMPSC 221 coursework, the project applies object-oriented programming, GUI development, event handling, and 2D graphics rendering.
 
 ## Features
 
 - Draw lines, rectangles, and ovals
 - Select drawing colors
-- Filled and unfilled shapes
-- Gradient fills
-- Adjustable line width
-- Dashed or solid line styles
-- Undo and clear functionality
-- Display current pointer coordinates
-- Interactive mouse-based drawing
+- Create filled and unfilled shapes
+- Apply gradient fills
+- Adjust line width
+- Choose dashed or solid line styles
+- Undo previous drawing operations
+- Clear the drawing canvas
+- Display current mouse pointer coordinates
+- Support interactive, mouse-based drawing
 
 ## Technologies
 
 - Java
-- Java Swing/AWT
-- Java 2D
+- Java Swing and AWT
+- Java 2D Graphics
 - Object-Oriented Programming
+- Event Handling
 
 ## Object-Oriented Design
 
-The application uses an inheritance-based shape hierarchy. A base shape class provides common properties and behavior, while individual shape classes implement their own drawing logic.
+The application uses an inheritance-based shape hierarchy to organize common shape properties and drawing behavior. Individual shape classes provide shape-specific rendering logic, while the graphical interface handles user input and drawing controls.
 
 ## Academic Context
 
